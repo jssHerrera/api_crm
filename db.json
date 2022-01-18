@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Denis",
+      "empresa": "CodeTeam",
+      "email": "hee@gma.com",
+      "telefono": "98765432",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "jesus",
+      "empresa": "kellDev",
+      "email": "jeshh.sdcsd@mma.com",
+      "telefono": "0998787",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "juan",
+      "empresa": "codigo con jaun",
+      "email": "juan@ham.com",
+      "telefono": "9827276354",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
